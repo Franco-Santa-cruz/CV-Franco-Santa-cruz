@@ -7,7 +7,7 @@
 }
 
 header{
-    background-color: #047e82;
+    background-color: #d28c00;
     display: flex;
     align-items: center;
     height: 85px;
@@ -15,7 +15,7 @@ header{
 }
 
 body {
-    background-color: #7fffd4; 
+    background-color: #ff8c00; 
 }
 
 h1{
